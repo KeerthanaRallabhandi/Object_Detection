@@ -27,6 +27,6 @@ STEP 3: Creating the Webcam Frame and ROI bounding box inside the frame
 STEP 4: Captured Image Saving into labeled folders
 
 
-Similarly the task of object detection training and validation for the Custom dataset created is done using the online tool as an Automated process for detection and training using the Sentisight.ai free platform.
+Similarly the task of object detection training and validation for the Custom dataset created is done using the online tool as an Automated process for detection and training using the Sentisight.ai free platform which is uploaded in the **WEBM** format for the brief intro about the tool and further explanation about the usage, Labelling, Training and Validation using the tool.
 
 
