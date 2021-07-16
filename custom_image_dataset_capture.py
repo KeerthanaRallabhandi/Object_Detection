@@ -11,7 +11,7 @@ def capture_object():
     bottom_right = (825,490)
     cv2.namedWindow("Image Capture")
 
-    img_counter = 0 #this initially has the captured number of image set to zero
+    img_counter = 0 #counter to the captured number of images set to zero
 
     while img_counter<= 20:     #using a loop, to get each frame of webcam with the method read()
         status,frame = camera.read() # reading the frames
